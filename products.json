@@ -1,0 +1,7 @@
+{
+	"products": 	
+	[
+		{ "name" : "iPhone 8", "price": 60000, "isActive": true },
+		{ "name" : "iPhone 8", "price": 60000 }
+	]
+}
