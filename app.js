@@ -3,7 +3,7 @@ var fs = require('fs');
 
 const app = express();
 
-const port = process.env.port | 8080;
+const port = process.env.PORT | 8080;
 
 /* HTTP Server */
 app.listen(port, (err) => {
